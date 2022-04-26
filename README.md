@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Hrid 👋
 
 <!--
 **patelhrid/patelhrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🧑‍💻 I enjoy developing programs and learning new concepts through self-learning.\
+📚 I'm currently studying Computer Science at the University of Toronto.\
+📫 How to reach me: hrid.patel@mail.utoronto.ca
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=patelhrid&count_private=true&show_icons=true&theme=tokyonight" alt="Tejas' Github Stats"></a></p>
